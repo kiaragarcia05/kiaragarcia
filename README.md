@@ -1,2 +1,0 @@
-# kiaragarcia
-My creative Portfolio
