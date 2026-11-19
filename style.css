@@ -10,3 +10,6 @@
 .archive-tabs a:hover{background:#d5f3ff}
 #reading-reflections{margin-top:60px;scroll-margin-top:100px}
 #homework-section{scroll-margin-top:100px}
+
+/* Homework artwork gallery */
+.artwork-link{display:block;width:100%;margin-bottom:12px}.artwork-preview{display:block;width:100%;height:220px;object-fit:contain;border-radius:14px;background:rgba(255,255,255,.5)}.project-explanation{grid-column:1/-1}.project-explanation p{line-height:1.7;margin:14px 0;white-space:normal}.file-card h3{overflow-wrap:anywhere}
