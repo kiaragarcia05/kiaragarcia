@@ -1,0 +1,15 @@
+/* Simple styles for my interactive story */
+body { background-color: #fce8f1; font-family: Arial, sans-serif; color: #4c3444; margin: 0; }
+main { max-width: 700px; margin: 35px auto; padding: 25px; background-color: white; border: 2px solid #e9b9d1; }
+h1 { color: #aa5987; text-align: center; }
+h2 { color: #885477; font-size: 20px; }
+p { line-height: 1.6; }
+a { color: #994c7d; }
+.choices a { display: block; background-color: #f6d6e7; border: 1px solid #d6a4bf; padding: 12px; margin: 10px 0; text-decoration: none; color: #613b57; }
+.choices a:hover { background-color: #edbed6; }
+.mirror { width: 110px; height: 150px; margin: 15px auto; border: 8px solid #c78aa9; border-radius: 50% 50% 12% 12%; background: #e9dff2; }
+footer { margin-top: 30px; font-size: 12px; text-align: center; }
+@media (max-width: 750px) { main { margin: 12px; padding: 16px; } }
+
+/* My own photographs for each part of the story */
+.story-photo { display: block; max-width: 100%; width: auto; max-height: 470px; object-fit: contain; margin: 18px auto; border: 3px solid #efd2df; }

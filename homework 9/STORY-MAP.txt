@@ -1,0 +1,22 @@
+THE OTHER ME — STORY MAP
+
+START (index)
+  Touch mirror -> touch -> perfect / younger / quiet
+  Talk to reflection -> speak -> perfect / younger / quiet
+
+perfect -> illusion / quiet / younger
+younger -> real / unfinished / perfect
+quiet -> real / unfinished / illusion
+
+ENDINGS (each reachable through multiple paths):
+illusion: index > touch > perfect > illusion OR index > speak > quiet > illusion
+unfinished: index > touch > younger > unfinished OR index > speak > quiet > unfinished
+real: index > speak > younger > real OR index > touch > quiet > real
+
+Premise: A girl meets a mirror reflection offering her a perfect life.
+Concept: Comparison versus self-acceptance.
+Dilemma: Become perfect, remain uncertain, or accept herself.
+Characters: Protagonist, reflection, younger self, ideal self.
+Psychology: Reader choices explore perfectionism, self-esteem and self-compassion.
+
+Artwork: All background illustrations are original CSS gradients, shapes and effects. All narrative text is original draft text; revise to make it your own before submission.
